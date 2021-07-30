@@ -28,15 +28,18 @@ To learn English, I want to write this page in English.
 
 ### branch
 
-### fetch
+### Difference between fetch, merge and pull
 
-### merge
+[reference website](https://docs.github.com/ja/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+- **fetch** ... main branch in __remote__ → origin/main in __local__
+- **merge** ... origin/main in __local__ → main in __local__
 
+- **pull** ... _fetch_ and _merge_ at the same time
 
 ## __Basic writing and formatting syntax to write README__
 
-[reference website](https://docs.github.com/ja/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[reference website](https://qiita.com/wann/items/688bc17460a457104d7d)
 
 ### Style
 
