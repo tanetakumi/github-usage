@@ -83,7 +83,19 @@
 - [ ] BB
 - [ ] CC
 
+```
+- [x] AA
+- [ ] BB
+- [ ] CC
+```
+
 ### Emoji
+picks up only the emoji which I seem to use
 
-:+1: This PR looks great - it's ready to merge! :shipit:
+- :+1: ```:+1:```
 
+- :muscle: ```:muscle:```
+
+- :point_right: ```:point_right:```
+
+- :heart: ```:heart:```
