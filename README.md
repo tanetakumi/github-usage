@@ -1,5 +1,9 @@
 # Github
 
+英語の勉強のためにもなるべく英語で記述していきたい
+
+To learn English, I want to write this page in English.
+
 ## Commit command
 
 [reference website](https://qiita.com/itosho/items/9565c6ad2ffc24c09364)
@@ -19,6 +23,16 @@
 - remove
 
 - revert
+
+## __Command__
+
+### branch
+
+### fetch
+
+### merge
+
+
 
 ## __Basic writing and formatting syntax to write README__
 
@@ -90,6 +104,8 @@
 ```
 
 ### Emoji
+[detail](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
 picks up only the emoji which I seem to use
 
 - :+1: ```:+1:```
