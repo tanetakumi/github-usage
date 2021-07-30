@@ -32,6 +32,8 @@ To learn English, I want to write this page in English.
 
 [reference website](https://docs.github.com/ja/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+When I write a program, pull  the change history data from remote at first. In addition, I upload the change history data to remote when It's finished.
+
 - **fetch** ... main branch in __remote__ → origin/main in __local__
 - **merge** ... origin/main in __local__ → main in __local__
 
