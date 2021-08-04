@@ -55,6 +55,11 @@ just push this to origin/main
 git push origin main
 ```
 
+amend
+```
+git commit --amend -m "comment"
+```
+
 ## __Basic writing and formatting syntax to write README__
 
 [reference website](https://qiita.com/wann/items/688bc17460a457104d7d)
