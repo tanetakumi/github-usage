@@ -26,7 +26,7 @@ To learn English, I want to write this page in English.
 
 ## __Command__
 
-### branch
+
 
 ### Difference between fetch, merge and pull
 
@@ -35,9 +35,25 @@ To learn English, I want to write this page in English.
 When I write a program, pull  the change history data from remote at first. In addition, I upload the change history data to remote when It's finished.
 
 - **fetch** ... main branch in __remote__ → origin/main in __local__
+
 - **merge** ... origin/main in __local__ → main in __local__
 
 - **pull** ... _fetch_ and _merge_ at the same time
+
+
+### use revert to cancel commit
+
+Commitment to deny a commitment just before that
+
+```
+git revert
+git revert HEAD
+git revert HEAD~3 (the last 3 times)
+```
+just push this to origin/main
+```
+git push origin main
+```
 
 ## __Basic writing and formatting syntax to write README__
 
